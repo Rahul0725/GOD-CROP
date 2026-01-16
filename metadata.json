@@ -1,0 +1,7 @@
+{
+  "name": "GOD CROP",
+  "description": "A premium, AI-powered image cropping and shape-masking engine with professional export capabilities and subject-aware smart cropping.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
